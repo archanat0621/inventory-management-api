@@ -1,1 +1,1 @@
-# inventory-management-1pi
+# inventory-management-api
