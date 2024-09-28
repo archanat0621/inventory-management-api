@@ -1,0 +1,5 @@
+Django==4.2  # or the latest version
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+psycopg2==2.9.6  # For PostgreSQL; use `mysqlclient` for MySQL
+django-redis==5.2.0
